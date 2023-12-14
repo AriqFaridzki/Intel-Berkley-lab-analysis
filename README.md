@@ -1,7 +1,7 @@
 # Intel Lab Data Analysis Project
 
 ## Overview
-Hello There! This project is my midterm exam where I analyzed a dataset provided by the Intel Berkeley Research lab. The dataset had information from 54 sensors that collected data between February 28th and April 5th, 2004.
+Hello There! In this project, I analyzed a dataset provided by the Intel Berkeley Research lab. The dataset collected information from 54 sensors between February 28th and April 5th, 2004.
 
 ## Dataset
 
@@ -23,7 +23,7 @@ The analysis was performed using Python with the following libraries:
 
 - [Pandas](https://pandas.pydata.org/) for data manipulation.
 - [Matplotlib](https://matplotlib.org/) for basic data visualization.
-- [Seaborn](https://seaborn.pydata.org/) for statistical data visualization.
+- [Seaborn](https://seaborn.pydata.org/) for statistical data visualization using Matplotlib as base.
 
 ## Data Processing
 
@@ -58,5 +58,5 @@ The project was executed using Jupyter Notebook with the following steps:
 5. Grouping and visualization of data patterns.
 6. Heatmap creation to visualize distributions over time.
 
-Feel free to explore the project
+Feel free to explore the project 🌟
 
